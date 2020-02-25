@@ -12,8 +12,7 @@ code {
     monospace;
 }
 .wrapper{
-  padding-top: 5rem;
+  padding-top: .5rem;
   margin: 0 auto;
   width: 600px;
-  background-color: brown;
 }
